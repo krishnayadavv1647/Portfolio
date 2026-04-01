@@ -1,5 +1,5 @@
 import React from 'react'
-import profile from "../assets/KevinRushProfile.png";
+import profile from "../assets/kevinRushProfile.png";
 import { HERO_CONTENT } from '../assets';
 import { motion } from "framer-motion"
 
