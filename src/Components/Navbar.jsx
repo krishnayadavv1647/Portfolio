@@ -19,7 +19,7 @@ const Navbar = () => {
           <Instagram className='cursor-pointer hover:text-pink-400 transition'/>
         </a>
 
-        <a href="https://www.linkedin.com/in/Krishna-Yadav-920819400/" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/krishna-yadav-920819400/?skipRedirect=true" target="_blank" rel="noopener noreferrer">
           <Linkedin className='cursor-pointer hover:text-blue-400 transition'/>
         </a>
 
