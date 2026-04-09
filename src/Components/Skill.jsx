@@ -25,10 +25,10 @@ const Skill = () => {
     <i className="ri-nextjs-line text-7xl text-cyan-400 "></i>
     </motion.div>
     <motion.div variants={iconVariants(5)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-    <i className="ri-database-line text-7xl text-cyan-400 "></i>
+    <i className="ri-css3-line text-7xl text-cyan-400 "></i>
     </motion.div>
      <motion.div variants={iconVariants(6)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-    <i className="ri-nodejs-line text-7xl text-cyan-400 "></i>
+    <i className="ri-javascript-line text-7xl text-cyan-400 "></i>
     </motion.div>
      <motion.div variants={iconVariants(4)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
     <i className="ri-tailwind-css-line text-7xl text-cyan-400 "></i>
