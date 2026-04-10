@@ -22,19 +22,19 @@ const Skill = () => {
     <i className="ri-reactjs-line text-7xl text-cyan-400 "></i>
     </motion.div>
      <motion.div variants={iconVariants(3)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-    <i className="ri-nextjs-line text-7xl text-cyan-400 "></i>
+    <i className="ri-nextjs-line text-7xl text-green-400 "></i>
     </motion.div>
     <motion.div variants={iconVariants(5)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-    <i className="ri-css3-line text-7xl text-cyan-400 "></i>
+    <i className="ri-css3-line text-7xl text-purple-400 "></i>
     </motion.div>
      <motion.div variants={iconVariants(6)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-    <i className="ri-javascript-line text-7xl text-cyan-400 "></i>
+    <i className="ri-javascript-line text-7xl text-yellow-500 "></i>
     </motion.div>
      <motion.div variants={iconVariants(4)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-    <i className="ri-tailwind-css-line text-7xl text-cyan-400 "></i>
+    <i className="ri-tailwind-css-line text-7xl text-blue-400 "></i>
     </motion.div>
      <motion.div variants={iconVariants(2)} initial="initial" animate="animate" className="rounded-2xl border-4 border-neutral-800 p-4">
-    <i className="ri-html5-line text-7xl text-cyan-400 "></i>
+    <i className="ri-html5-line text-7xl text-orange-400 "></i>
     </motion.div>
     </motion.div>
     </div>
