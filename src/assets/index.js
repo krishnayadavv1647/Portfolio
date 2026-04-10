@@ -45,28 +45,28 @@ export const PROJECTS = [
     image: Spotify,
     description:
       "Developed a Spotify Clone using HTML, CSS, JavaScript, and React, featuring play, pause, and track controls. Built a responsive and interactive user interface with smooth audio playback.",
-    technologies: ["HTML", "CSS", "Javascript", "React"],
+    technologies: ["HTML", "CSS", "Javascript", "React" , "Tailwind"],
   },
   {
     title: "Movie App",
     image: MovieApp,
     description:
       "Developed a Movie App using HTML, CSS, JavaScript, and React that allows users to browse and search for movies. Integrated API to fetch real-time movie data and display details like ratings, posters, and overviews. Built a responsive and user-friendly interface, improving skills in API handling, state management, and dynamic rendering.",
-    technologies: ["HTML", "CSS", "Javascript", "React"],
+    technologies: ["HTML", "CSS", "Javascript", "React","Tailwind"],
   },
   {
     title: "Portfolio Website",
     image: Portfolio,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React", "Tailwind"],
   },
   {
     title: "Blogging Platform",
     image: Blogging,
     description:
       "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+    technologies: ["HTML", "CSS", "Javascript", "Tailwind"],
   },
 ];
 
