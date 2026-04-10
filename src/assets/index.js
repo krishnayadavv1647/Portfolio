@@ -73,5 +73,5 @@ export const PROJECTS = [
 export const CONTACT = {
   address: "Behind Jodhpur Sweets Gumanpura Kota Rajasthan",
   phoneNo: "+91 8000281647",
-  email: "krishnayadavv@gmail.com",
+  email: "krishnayadavv1647@gmail.com",
 };
